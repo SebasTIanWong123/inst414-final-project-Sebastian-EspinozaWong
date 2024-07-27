@@ -8,9 +8,9 @@ def loading_data(file_path):
         headers = next(reader)  
         data = [row for row in reader]
     return data
-#Making sure file gets sabed in right folder and writing csv
+#Making sure file gets saved in right folder and writing csv
 def saved_data(data, output_folder):
-    file_path = os.path.join(output_folder, 'player_stats_corrected.csv')
+    file_path = os.path.join(output_folder, 'Lebron_Stat.csv')
     
     os.makedirs(output_folder, exist_ok=True)
     
@@ -29,3 +29,4 @@ if __name__ == "__main__":
     data = loading_data(extracted_file_path)
     # Saving the data in the proper folder.
     saved_data(data, output_folder)
+#After this is run, it should populate a Lebron_Stats.csv file under Data.

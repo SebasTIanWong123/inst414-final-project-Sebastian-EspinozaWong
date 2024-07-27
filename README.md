@@ -27,8 +27,7 @@
 # - Reference Table.csv
 # ETL
 # - extract.py
-# - load.py 
-# - transform.py
+# - transform-load.py
 # Visualization
 # - visualization.py
 # main.py
