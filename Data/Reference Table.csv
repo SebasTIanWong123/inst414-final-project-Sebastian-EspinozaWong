@@ -1,0 +1,12 @@
+Refernece Table: Basketball Reference
+
+attribute_name,description,data_type,example_vaue,unit
+Player Name,Name of player,String,Kevin Durant ,N/A
+Team,The team player is on,String,Dallas Mavericks ,N/A
+Games Played(GP),Number of games played,Integer,74,Games
+Points(PTS),Total points scored,Integer,21,Points
+Assists(AST),Total assists scored,Integer,5,Assists
+Rebounds(REB),Total rebounds ,Integer,5,Rebounds
+Steals(STL),Total steals,Integer,2,Steals
+Blocks(BLK),Total blocks,Integer,3,Blocks
+Season,The NBA season(year range),String,2023-2024,N/A
