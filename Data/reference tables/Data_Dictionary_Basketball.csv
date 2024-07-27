@@ -1,0 +1,12 @@
+Refernece Table: Basketball Reference
+
+attribute_name,description,data_type,example_vaue,unit
+Player Name,Name of player,String,LeBron James ,N/A
+TM,The team player is on,String,Dallas Mavericks ,N/A
+G,Number of games played,Integer,74,Games
+PTS,Total points scored,Integer,21,Points
+AST,Total assists scored,Integer,5,Assists
+REB,Total rebounds ,Integer,5,Rebounds
+STL,Total steals,Integer,2,Steals
+BLK,Total blocks,Integer,3,Blocks
+Season,The NBA season(year range),String,2023-2024,N/A
