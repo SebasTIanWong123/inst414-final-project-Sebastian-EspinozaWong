@@ -44,8 +44,8 @@ if __name__ == "__main__":
     URL = 'https://www.basketball-reference.com/players/j/jamesle01.html'
     basketball_data = extracted_data(URL)
     #I have done this last part to make it easier to keep track of what the code is doing, after this final code it should populate
-    # A "extracted_data.csv" file which is what I will use in the transform/load.py to load it into the Data folder.
-    with open('extracted_data.csv', 'w', newline='', encoding='utf-8') as file:
+    # A "Lebron_data.csv" file which is what I will use in the transform/load.py to load it into the Data folder.
+    with open('Lebron_data.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['Age', 'Team', 'League', 'G', 'AST', 'STL', 'REB', 'BLK', 'PTS'])
         writer.writerows(basketball_data)

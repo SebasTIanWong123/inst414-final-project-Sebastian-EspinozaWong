@@ -1,9 +1,0 @@
-'''
-This is where I will create visualization from the data collect from 
-the websites.
-'''
-#Tableau Link: https://public.tableau.com/views/LebronJamesTableauVisualizations/LebronJamesVisualizations?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-# For this I was not entirely sure what to do, I want to create my visualization 
-# In Tableau so what I will try to do is find a way to get the Tableau
-# Visualization to populate within this VS Code project. Under Visualizations.
