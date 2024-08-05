@@ -1,5 +1,5 @@
 import json
-
+#Adding the logging.
 #main function:
 def main():
     # This is to Extract data from ETL, from etl.extract import extract_data

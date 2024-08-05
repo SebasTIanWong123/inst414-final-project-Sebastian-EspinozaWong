@@ -1,6 +1,6 @@
 '''
 This is where I will create code to extract the data from the websites
-I will be using.
+I will be using. I will also be adding Basketball Reference 2023 NBA Team statistics.
 '''
 import requests
 from bs4 import BeautifulSoup

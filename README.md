@@ -25,6 +25,7 @@
 # - outputs
 # - processed
 # - Reference Table.csv
+# - README.data
 # ETL
 # - extract.py
 # - transform-load.py
