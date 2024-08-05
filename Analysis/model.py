@@ -18,6 +18,8 @@ What I am doing is trying to create a safer game of basketball by creating insig
 
 I will be using a Linear Regression Model in order to gather the analysis I need in order to solve the business problem
 
+#NEW COMMIT: I will be now doing both regression model as well as a logistic regression, I will also be testing out trying some kind of clustering model but am not sure about its eligilibty with this data set.
+
 ''' 
 import pandas as pd
 import matplotlib.pyplot as plt
